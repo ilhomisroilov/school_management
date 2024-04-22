@@ -1,0 +1,26 @@
+[
+  {
+    "cours_id": 1,
+    "cours_info": "Mathematic class",
+    "teach_id": 2,
+    "capacity": 20,
+    "empty": 2,
+    "coursStudents": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+  },
+  {
+    "cours_id": 2,
+    "cours_info": "English",
+    "teach_id": 13,
+    "capacity": 15,
+    "empty": 5,
+    "coursStudents": [null, null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+  },
+  {
+    "cours_id": 3,
+    "cours_info": "Computer Science",
+    "teach_id": 8,
+    "capacity": 15,
+    "empty": 7,
+    "coursStudents": [null, null, null, null, null, null, null, null, null, null, null, null, null, null]
+  }
+]

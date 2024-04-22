@@ -1,0 +1,202 @@
+[
+  {
+    "teach_id": 1,
+    "fullname": "David Johnson",
+    "userteach": "david_j",
+    "subjectname": "Mathematics",
+    "age": 35,
+    "contact": "123-456-7890",
+    "teach_email": "david.johnson@example.com",
+    "teach_password": "teacher1pass"
+  },
+  {
+    "teach_id": 2,
+    "fullname": "Sarah Thompson",
+    "userteach": "sarah_t",
+    "subjectname": "English Literature",
+    "age": 40,
+    "contact": "987-654-3210",
+    "teach_email": "sarah.thompson@example.com",
+    "teach_password": "teacher2pass"
+  },
+  {
+    "teach_id": 3,
+    "fullname": "Michael Brown",
+    "userteach": "michael_b",
+    "subjectname": "Physics",
+    "age": 38,
+    "contact": "555-123-4567",
+    "teach_email": "michael.brown@example.com",
+    "teach_password": "teacher3pass"
+  },
+  {
+    "teach_id": 4,
+    "fullname": "Jessica Martinez",
+    "userteach": "jessica_m",
+    "subjectname": "Biology",
+    "age": 42,
+    "contact": "999-888-7777",
+    "teach_email": "jessica.martinez@example.com",
+    "teach_password": "teacher4pass"
+  },
+  {
+    "teach_id": 5,
+    "fullname": "Daniel White",
+    "userteach": "daniel_w",
+    "subjectname": "Chemistry",
+    "age": 36,
+    "contact": "333-555-9999",
+    "teach_email": "daniel.white@example.com",
+    "teach_password": "teacher5pass"
+  },
+  {
+    "teach_id": 6,
+    "fullname": "Emily Wilson",
+    "userteach": "emily_w",
+    "subjectname": "History",
+    "age": 39,
+    "contact": "777-888-9999",
+    "teach_email": "emily.wilson@example.com",
+    "teach_password": "teacher6pass"
+  },
+  {
+    "teach_id": 7,
+    "fullname": "Matthew Garcia",
+    "userteach": "matthew_g",
+    "subjectname": "Geography",
+    "age": 37,
+    "contact": "444-666-3333",
+    "teach_email": "matthew.garcia@example.com",
+    "teach_password": "teacher7pass"
+  },
+  {
+    "teach_id": 8,
+    "fullname": "Sophia Hernandez",
+    "userteach": "sophia_h",
+    "subjectname": "Computer Science",
+    "age": 41,
+    "contact": "222-333-4444",
+    "teach_email": "sophia.hernandez@example.com",
+    "teach_password": "teacher8pass"
+  },
+  {
+    "teach_id": 9,
+    "fullname": "William Young",
+    "userteach": "william_y",
+    "subjectname": "Art",
+    "age": 34,
+    "contact": "111-222-3333",
+    "teach_email": "william.young@example.com",
+    "teach_password": "teacher9pass"
+  },
+  {
+    "teach_id": 10,
+    "fullname": "Olivia Scott",
+    "userteach": "olivia_s",
+    "subjectname": "Music",
+    "age": 43,
+    "contact": "666-777-8888",
+    "teach_email": "olivia.scott@example.com",
+    "teach_password": "teacher10pass"
+  },
+  {
+    "teach_id": 11,
+    "fullname": "Benjamin Adams",
+    "userteach": "benjamin_a",
+    "subjectname": "Physical Education",
+    "age": 37,
+    "contact": "999-111-2222",
+    "teach_email": "benjamin.adams@example.com",
+    "teach_password": "teacher11pass"
+  },
+  {
+    "teach_id": 12,
+    "fullname": "Ava King",
+    "userteach": "ava_k",
+    "subjectname": "Foreign Language",
+    "age": 35,
+    "contact": "888-555-4444",
+    "teach_email": "ava.king@example.com",
+    "teach_password": "teacher12pass"
+  },
+  {
+    "teach_id": 13,
+    "fullname": "Ethan Carter",
+    "userteach": "ethan_c",
+    "subjectname": "Psychology",
+    "age": 39,
+    "contact": "777-999-3333",
+    "teach_email": "ethan.carter@example.com",
+    "teach_password": "teacher13pass"
+  },
+  {
+    "teach_id": 14,
+    "fullname": "Emma Adams",
+    "userteach": "emma_a",
+    "subjectname": "Sociology",
+    "age": 42,
+    "contact": "666-444-8888",
+    "teach_email": "emma.adams@example.com",
+    "teach_password": "teacher14pass"
+  },
+  {
+    "teach_id": 15,
+    "fullname": "Noah Baker",
+    "userteach": "noah_b",
+    "subjectname": "Economics",
+    "age": 36,
+    "contact": "555-333-7777",
+    "teach_email": "noah.baker@example.com",
+    "teach_password": "teacher15pass"
+  },
+  {
+    "teach_id": 16,
+    "fullname": "Grace Hill",
+    "userteach": "grace_h",
+    "subjectname": "Political Science",
+    "age": 38,
+    "contact": "444-222-6666",
+    "teach_email": "grace.hill@example.com",
+    "teach_password": "teacher16pass"
+  },
+  {
+    "teach_id": 17,
+    "fullname": "Jacob Clark",
+    "userteach": "jacob_c",
+    "subjectname": "Environmental Science",
+    "age": 40,
+    "contact": "333-111-5555",
+    "teach_email": "jacob.clark@example.com",
+    "teach_password": "teacher17pass"
+  },
+  {
+    "teach_id": 18,
+    "fullname": "Natalie Green",
+    "userteach": "natalie_g",
+    "subjectname": "Health Education",
+    "age": 33,
+    "contact": "222-888-9999",
+    "teach_email": "natalie.green@example.com",
+    "teach_password": "teacher18pass"
+  },
+  {
+    "teach_id": 19,
+    "fullname": "Andrew Rivera",
+    "userteach": "andrew_r",
+    "subjectname": "Philosophy",
+    "age": 41,
+    "contact": "111-777-6666",
+    "teach_email": "andrew.rivera@example.com",
+    "teach_password": "teacher19pass"
+  },
+  {
+    "teach_id": 20,
+    "fullname": "Madison Baker",
+    "userteach": "madison_b",
+    "subjectname": "Statistics",
+    "age": 37,
+    "contact": "999-222-4444",
+    "teach_email": "madison.baker@example.com",
+    "teach_password": "teacher20pass"
+  }
+]

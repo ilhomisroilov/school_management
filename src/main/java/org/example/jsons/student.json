@@ -1,0 +1,209 @@
+[
+  {
+    "stud_id": 1,
+    "fullname": "John Doe",
+    "username": "Doe",
+    "age": 20,
+    "contact": "123-456-7890",
+    "std_email": "john.doe@example.com",
+    "std_password": "password1"
+  },
+  {
+    "stud_id": 2,
+    "fullname": "Jane Smith",
+    "username": "Smith",
+    "age": 21,
+    "contact": "987-654-3210",
+    "std_email": "jane.smith@example.com",
+    "std_password": "password2"
+  },
+  {
+    "stud_id": 3,
+    "fullname": "Michael Johnson",
+    "username": "Johnson",
+    "age": 22,
+    "contact": "555-123-4567",
+    "std_email": "michael.johnson@example.com",
+    "std_password": "password3"
+  },
+  {
+    "stud_id": 4,
+    "fullname": "Emily Brown",
+    "username": "Brown",
+    "age": 19,
+    "contact": "999-888-7777",
+    "std_email": "emily.brown@example.com",
+    "std_password": "password4"
+  },
+  {
+    "stud_id": 5,
+    "fullname": "Daniel Wilson",
+    "username": "Wilson",
+    "age": 20,
+    "contact": "333-555-9999",
+    "std_email": "daniel.wilson@example.com",
+    "std_password": "password5"
+  },
+  {
+    "stud_id": 6,
+    "fullname": "Olivia Garcia",
+    "username": "Garcia",
+    "age": 21,
+    "contact": "777-888-9999",
+    "std_email": "olivia.garcia@example.com",
+    "std_password": "password6"
+  },
+  {
+    "stud_id": 7,
+    "fullname": "William Martinez",
+    "username": "Martinez",
+    "age": 22,
+    "contact": "444-666-3333",
+    "std_email": "william.martinez@example.com",
+    "std_password": "password7"
+  },
+  {
+    "stud_id": 8,
+    "fullname": "Sophia Anderson",
+    "username": "Anderson",
+    "age": 20,
+    "contact": "222-333-4444",
+    "std_email": "sophia.anderson@example.com",
+    "std_password": "password8"
+  },
+  {
+    "stud_id": 9,
+    "fullname": "Alexander Taylor",
+    "username": "Taylor",
+    "age": 19,
+    "contact": "111-222-3333",
+    "std_email": "alexander.taylor@example.com",
+    "std_password": "password9"
+  },
+  {
+    "stud_id": 10,
+    "fullname": "Mia Thomas",
+    "username": "Thomas",
+    "age": 21,
+    "contact": "666-777-8888",
+    "std_email": "mia.thomas@example.com",
+    "std_password": "password10"
+  },
+  {
+    "stud_id": 11,
+    "fullname": "Ethan Hernandez",
+    "username": "Hernandez",
+    "age": 22,
+    "contact": "999-111-2222",
+    "std_email": "ethan.hernandez@example.com",
+    "std_password": "password11"
+  },
+  {
+    "stud_id": 12,
+    "fullname": "Isabella Young",
+    "username": "Young",
+    "age": 20,
+    "contact": "888-555-4444",
+    "std_email": "isabella.young@example.com",
+    "std_password": "password12"
+  },
+  {
+    "stud_id": 13,
+    "fullname": "James Moore",
+    "username": "Moore",
+    "age": 19,
+    "contact": "777-999-3333",
+    "std_email": "james.moore@example.com",
+    "std_password": "password13"
+  },
+  {
+    "stud_id": 14,
+    "fullname": "Ava King",
+    "username": "King",
+    "age": 21,
+    "contact": "666-444-8888",
+    "std_email": "ava.king@example.com",
+    "std_password": "password14"
+  },
+  {
+    "stud_id": 15,
+    "fullname": "Noah Lopez",
+    "username": "Lopez",
+    "age": 22,
+    "contact": "555-333-7777",
+    "std_email": "noah.lopez@example.com",
+    "std_password": "password15"
+  },
+  {
+    "stud_id": 16,
+    "fullname": "Emma Hill",
+    "username": "Hill",
+    "age": 20,
+    "contact": "444-222-6666",
+    "std_email": "emma.hill@example.com",
+    "std_password": "password16"
+  },
+  {
+    "stud_id": 17,
+    "fullname": "Jacob Scott",
+    "username": "Scott",
+    "age": 19,
+    "contact": "333-111-5555",
+    "std_email": "jacob.scott@example.com",
+    "std_password": "password17"
+  },
+  {
+    "stud_id": 18,
+    "fullname": "Sophia Green",
+    "username": "Green",
+    "age": 21,
+    "contact": "222-888-9999",
+    "std_email": "sophia.green@example.com",
+    "std_password": "password18"
+  },
+  {
+    "stud_id": 19,
+    "fullname": "Logan Adams",
+    "username": "Adams",
+    "age": 22,
+    "contact": "111-777-6666",
+    "std_email": "logan.adams@example.com",
+    "std_password": "password19"
+  },
+  {
+    "stud_id": 20,
+    "fullname": "Avery Baker",
+    "username": "Baker",
+    "age": 20,
+    "contact": "999-222-4444",
+    "std_email": "avery.baker@example.com",
+    "std_password": "password20"
+  },
+  {
+    "stud_id": 21,
+    "fullname": "Evelyn Hall",
+    "username": "Hall",
+    "age": 19,
+    "contact": "888-555-3333",
+    "std_email": "evelyn.hall@example.com",
+    "std_password": "password21"
+  },
+  {
+    "stud_id": 22,
+    "fullname": "Carter Rivera",
+    "username": "Rivera",
+    "age": 21,
+    "contact": "777-444-2222",
+    "std_email": "carter.rivera@example.com",
+    "std_password": "password21"
+  },
+  {
+    "stud_id": 23,
+    "fullname": "Ilhom Isroilov",
+    "username": "ilhom",
+    "age": 19,
+    "contact": "93-103-55-75",
+    "std_email": "ilhom@tuit.uz",
+    "std_password": "ilhom123"
+  }
+]
